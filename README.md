@@ -1,4 +1,4 @@
-Here's a professional and detailed README.md for the provided code:
+
 
 ```markdown
 # Gemini LLM Q&A Application
